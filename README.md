@@ -1,5 +1,5 @@
-### Hi!
-I'm Jinny☁️ A year one computer science student. 
+### Hi! I'm Jinny☁️ A year one computer science student. 
+
 
 **Currently learning:**
 
