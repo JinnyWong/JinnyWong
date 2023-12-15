@@ -1,10 +1,7 @@
 ### Hi, I'm Jinny☁️ <img align="right" width="250px" src="https://i.pinimg.com/originals/a0/d5/81/a0d581666d26dd9c66bf8ed395cba948.gif" />
 
-
-
-**Currently learning:**
-
-- Python & C++ ⌨️
+- 3rd year computer science student at Fudan University
+- Open to internships for summer 2024
 
 
 **Languages & tools:**
