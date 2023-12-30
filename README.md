@@ -1,4 +1,4 @@
-### Hi, I'm Jinny☁️ <img align="right" width="250px" src="https://i.pinimg.com/originals/a0/d5/81/a0d581666d26dd9c66bf8ed395cba948.gif" />
+### Hi, I'm Jinny☁️ 
 
 - 3rd year computer science student at Fudan University
 - Open to internships for summer 2024
